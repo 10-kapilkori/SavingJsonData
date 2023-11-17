@@ -1,0 +1,8 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="Base.Theme.SavingJsonData" parent="Theme.Material3.DayNight.NoActionBar">
+        <!--        -->
+    </style>
+
+    <style name="Theme.SavingJsonData" parent="Base.Theme.SavingJsonData" />
+</resources>
